@@ -725,7 +725,7 @@ h3 {
 .service-item__img:after {
   content: '';
   display: block;
-  padding-top: 120%;
+  padding-top: 110%;
   position: relative;
   z-index: 2;
   pointer-events: none; }
